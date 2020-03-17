@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{852:function(e){e.exports=JSON.parse('[{"fields":[{"name":"general.featureEmail","label":"Feature annoucement and marketing emails","component":"descriptiveCheckbox","initialValue":true,"initializeOnMount":true,"description":"Be notified about known maintenance windows, new features and marketing annoucements for cloud.redhat.com"}]}]')}}]);
+//# sourceMappingURL=14.js.map
