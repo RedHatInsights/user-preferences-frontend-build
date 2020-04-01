@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{855:function(e,n){throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <!DOCTYPE html>\n| <html lang="en-US">\n|     <head>')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{865:function(n,e){e["getSection should return loader 1"]='\n<Skeleton\n  isDark={false}\n  size="md"\n>\n  <div\n    className="ins-c-skeleton ins-c-skeleton__md"\n  >\n     \n  </div>\n</Skeleton>\n'}}]);
 //# sourceMappingURL=16.js.map
