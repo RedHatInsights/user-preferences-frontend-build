@@ -1,11 +1,11 @@
 {
   "app_name": "user-preferences",
-  "src_hash": "eb936a76cd8444f3071e1df52b32683ac58c194e",
+  "src_hash": "f1e4ee6b14da4c319d4601b5a5b6a6ea1206b9f8",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "73",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/user-preferences-frontend/builds/672102927"
+    "build_number": "75",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/user-preferences-frontend/builds/674771270"
   }
 }
