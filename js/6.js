@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{489:function(t,e,n){"use strict";n.r(e);var o=n(1),s=n.n(o),a=n(393),c=n(382),i=n.n(c),r=n(369);describe("DataListLayout checkbox tests",(function(){it("should render correctly",(function(){var t=Object(a.mount)(s.a.createElement(r.default,{label:"test label",sections:[{label:"test",fields:[{fields:[]}]}],formOptions:{renderForm:function(){return"test"}}}));expect(i()(t.find("DataListLayout"))).toMatchSnapshot()}))}))}}]);
+//# sourceMappingURL=6.js.map
