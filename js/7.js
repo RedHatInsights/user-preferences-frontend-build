@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{573:function(e,n,t){"use strict";t.r(n);var o=t(1),c=t.n(o),r=t(393),s=t(382),a=t.n(s),i=t(368);describe("Loader component tests",(function(){it("should render correctly",(function(){var e=Object(r.mount)(c.a.createElement(i.default,{size:"sm"}));expect(a()(e.find("Loader"))).toMatchSnapshot()}))}))}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{591:function(e,n,t){"use strict";t.r(n);var o=t(1),c=t.n(o),r=t(412),s=t(400),a=t.n(s),i=t(386);describe("Loader component tests",(function(){it("should render correctly",(function(){var e=Object(r.mount)(c.a.createElement(i.default,{size:"sm"}));expect(a()(e.find("Loader"))).toMatchSnapshot()}))}))}}]);
 //# sourceMappingURL=7.js.map
