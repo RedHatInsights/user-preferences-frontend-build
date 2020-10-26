@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{753:function(e,t,n){"use strict";n.r(t);var c=n(252),o=n.n(c),a=n(1),i=n.n(a),r=n(581),s=n(569),u=n.n(s),l=n(557),b=n(541);describe("Descriptive checkbox tests",(function(){it("should render correctly",(function(){var e=Object(r.mount)(i.a.createElement(b.a,{onSubmit:function(){}},(function(e){return i.a.createElement(l.default,o()({label:"test label",clearedValue:!0},e))})));expect(u()(e.find("DescriptiveCheckbox"))).toMatchSnapshot()}))}))}}]);
+//# sourceMappingURL=11.8eb3c96f58ef132559db.js.map
