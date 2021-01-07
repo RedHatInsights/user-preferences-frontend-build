@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{647:function(n,c,o){"use strict";o.r(c),o.d(c,"mock",(function(){return i}));var w=o(575),e=o(1007),i=new(o.n(e).a)(w.instance)}}]);
-//# sourceMappingURL=4.8eb3c96f58ef132559db.js.map
