@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{752:function(e,n,t){"use strict";t.r(n);var o=t(1),c=t.n(o),r=t(581),s=t(569),a=t.n(s),i=t(558);describe("Loader component tests",(function(){it("should render correctly",(function(){var e=Object(r.mount)(c.a.createElement(i.default,{size:"sm"}));expect(a()(e.find("Loader"))).toMatchSnapshot()}))}))}}]);
+//# sourceMappingURL=10.44dfa28b83db1b67c676.js.map

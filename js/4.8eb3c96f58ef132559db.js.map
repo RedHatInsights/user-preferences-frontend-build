@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/__mock__/schemaLoader.js"],"names":["mock","MockAdapter","instance"],"mappings":"0FAAA,mEAIaA,EAAO,IAJpB,OAIwBC,GAAYC","file":"js/4.8eb3c96f58ef132559db.js","sourcesContent":["import { instance } from '../api';\n\nimport MockAdapter from 'axios-mock-adapter';\n\nexport const mock = new MockAdapter(instance);\n"],"sourceRoot":""}
