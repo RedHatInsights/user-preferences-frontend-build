@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{1012:function(e){e.exports=JSON.parse('[{"fields":[{"name":"unsubscribe.from-all","isGlobal":true,"label":"Unsubscribe from all","initialValue":false,"component":"descriptiveCheckbox"}]}]')}}]);
-//# sourceMappingURL=25.44dfa28b83db1b67c676.js.map
