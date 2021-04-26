@@ -1,0 +1,2 @@
+(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[788],{41788:(t,e,r)=>{"use strict";r.d(e,{Z:()=>s});var p=r(14665);function s(t,e){t.prototype=Object.create(e.prototype),t.prototype.constructor=t,(0,p.Z)(t,e)}}}]);
+//# sourceMappingURL=788.a11e0ec72cd426a78cc9.js.map
