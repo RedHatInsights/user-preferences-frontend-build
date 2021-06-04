@@ -1,12 +1,12 @@
 {
   "app_name": "user-preferences",
-  "src_hash": "290eb2f121495491b40c11d06e155c6dae9e45d9",
+  "src_hash": "236e1474cc64d97e1865442306dfecc83fc8209d",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.90.5","@patternfly/react-core@4.101.3","@patternfly/react-table@4.23.14"],
   "travis": {
     "event_type": "push",
-    "build_number": "227",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/user-preferences-frontend/builds/223708170"
+    "build_number": "242",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/user-preferences-frontend/builds/227976740"
   }
 }
