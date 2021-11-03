@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[814],{17814:e=>{e.exports=JSON.parse('[{"fields":[{"name":"unsubscribe.from-all","isGlobal":true,"label":"Unsubscribe from all","initialValue":false,"component":"descriptiveCheckbox"}]}]')}}]);
