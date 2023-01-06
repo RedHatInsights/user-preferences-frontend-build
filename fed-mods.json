@@ -1,10 +1,11 @@
 {
     "userPreferences": {
         "entry": [
-            "/apps/user-preferences/userPreferences.7bd39d4adb3f666d2dd6.js"
+            "/apps/user-preferences/userPreferences.1673002895256.27aaa34cd8e7adc6a899.js"
         ],
         "modules": [
-            "/apps/user-preferences/js/412.d5365ce9828d11bb7f96.js"
+            "/apps/user-preferences/js/528.1673002895190.27aaa34cd8e7adc6a899.js",
+            "/apps/user-preferences/css/528.2a5b45eff7ac357d2a08.css"
         ]
     }
 }
