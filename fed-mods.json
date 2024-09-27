@@ -1,11 +1,1 @@
-{
-    "userPreferences": {
-        "entry": [
-            "/beta/apps/user-preferences/userPreferences.2c47afe397b92d892b1d.js"
-        ],
-        "modules": [
-            "/beta/apps/user-preferences/js/670.2c47afe397b92d892b1d.js",
-            "/beta/apps/user-preferences/css/670.2a5b45eff7ac357d2a08.css"
-        ]
-    }
-}
+{"name":"userPreferences","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/user-preferences/","loadScripts":["userPreferences.08b23fb0124a2556cc13.js"],"buildHash":"b92af8f4ee136ceec9f86c9d2378df13"}
