@@ -1,14 +1,14 @@
 {
   "app_name": "user-preferences",
   "node_version": ">=15.0.0",
-  "src_hash": "d9106d44c23fc450e1eb189bcc809f629d62f058",
+  "src_hash": "5dc69dabf67fda24cd157194da6fa4538b373218",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-component-groups@5.2.0","@patternfly/react-core@5.4.0","@patternfly/react-icons@5.4.0","@patternfly/react-table@5.4.0"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-utilities@4.0.17","@redhat-cloud-services/frontend-components@4.2.15"],
   "travis": {
     "event_type": "push",
-    "build_number": "947",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/user-preferences-frontend/builds/275039229"
+    "build_number": "952",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/user-preferences-frontend/builds/275069254"
   }
 }
